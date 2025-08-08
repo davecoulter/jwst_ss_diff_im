@@ -241,7 +241,6 @@ dependencies:
       - scikit-learn==1.7.1
       - scipy==1.16.1
       - semantic-version==2.10.0
-      - sewpy==1.0.dev0
       - simplify-polyline==0.1.0
       - sncosmo==2.12.1
       - sortedcontainers==2.4.0
